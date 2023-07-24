@@ -1,2 +1,2 @@
 # my-leetcode
-my leetcode answer summary
+It's my summary of leetcode answers
